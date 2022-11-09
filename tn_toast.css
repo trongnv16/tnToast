@@ -1,0 +1,30 @@
+.tn-toast-zone {
+    position: absolute;
+    z-index: 9999;
+    top: 50px;
+    right: 50px;
+}
+.tn-toast-zone .tn-toast-item {
+    margin-bottom: 20px;
+}
+.tn-toast-zone .tn-toast {
+    width:300px;
+    color:#fff;
+    border-radius:5px
+}
+
+.tn-toast-zone .tn-toast-btn-close {
+    margin:3px;
+    float:right;
+    font-size:1.5rem;
+    font-weight:500;
+    line-height:1;
+    border:0;
+    background:unset;
+    height:100%;
+    color:#fff
+}
+.tn-toast-zone .tn-toast-body {
+    padding:11px;
+    padding-right:20px;
+}
