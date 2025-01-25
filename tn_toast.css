@@ -1,5 +1,5 @@
 .tn-toast-zone {
-    position: absolute;
+    position: fixed;
     z-index: 9999;
     top: 50px;
     right: 50px;
